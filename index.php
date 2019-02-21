@@ -1,3 +1,3 @@
 <?php
-echo "Hello World! Hello Heroku!!!";
+echo '2020年のオリンピック開催地は"東京"です。';
 ?>
